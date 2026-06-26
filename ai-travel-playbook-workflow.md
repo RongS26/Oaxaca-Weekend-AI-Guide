@@ -1,5 +1,7 @@
 # AI Travel Playbook Workflow
 
+[English](ai-travel-playbook-workflow.md) | [中文](ai-travel-playbook-workflow.zh-CN.md)
+
 ## Goal
 
 Use AI to create travel artifacts that increase cultural understanding and reduce decision friction.

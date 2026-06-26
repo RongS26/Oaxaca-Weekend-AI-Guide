@@ -1,5 +1,7 @@
 # Case Study: From Travel Intent To AI Weekend Playbook
 
+[English](case-study.md) | [中文](case-study.zh-CN.md)
+
 ## One-Line Summary
 
 I used AI to turn a weekend Oaxaca trip idea into a bilingual self-guided guide and a practical playbook, then extracted the process into a reusable travel-guide workflow.
@@ -37,9 +39,9 @@ The useful iteration path was:
 
 ```text
 bilingual guide
-→ revised self-guided guide
-→ weekend playbook v1
-→ weekend playbook v2
+-> revised self-guided guide
+-> weekend playbook v1
+-> weekend playbook v2
 ```
 
 Each version had a different job:

@@ -1,5 +1,7 @@
 # Oaxaca Weekend AI Guide
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A small AI-assisted travel guide project for a weekend in Oaxaca.
 
 This project documents how a personal travel idea became a bilingual self-guided guide and a practical weekend playbook through iterative AI collaboration.
@@ -12,11 +14,11 @@ It is a lightweight case study of using AI to turn:
 
 ```text
 travel intent
-→ cultural context
-→ self-guided route
-→ bilingual guide
-→ weekend playbook
-→ reusable personal workflow
+-> cultural context
+-> self-guided route
+-> bilingual guide
+-> weekend playbook
+-> reusable personal workflow
 ```
 
 ## Assets
@@ -27,6 +29,13 @@ travel intent
 | `assets/Oaxaca_Revised_Self_Guided_Guide.pdf` | Revised self-guided guide |
 | `assets/Oaxaca_Weekend_Playbook_V1.pdf` | First weekend playbook iteration |
 | `assets/Oaxaca_Weekend_Playbook_V2.pdf` | Refined weekend playbook iteration |
+
+## Documentation
+
+| English | Chinese |
+|---|---|
+| [Case Study](case-study.md) | [案例复盘](case-study.zh-CN.md) |
+| [AI Travel Playbook Workflow](ai-travel-playbook-workflow.md) | [AI 旅行手册工作流](ai-travel-playbook-workflow.zh-CN.md) |
 
 ## Why I Kept It
 
@@ -44,9 +53,11 @@ The durable part is the interaction pattern:
 ```text
 .
 ├── README.md
+├── README.zh-CN.md
 ├── case-study.md
+├── case-study.zh-CN.md
 ├── ai-travel-playbook-workflow.md
-├── social-post-formats.md
+├── ai-travel-playbook-workflow.zh-CN.md
 └── assets/
     ├── Oaxaca_Weekend_Bilingual_Guide.pdf
     ├── Oaxaca_Revised_Self_Guided_Guide.pdf
